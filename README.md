@@ -17,7 +17,7 @@ This project is a pure Python implementation of a neural network that can classi
   - Early stopping to prevent overfitting
   - Custom image processing pipeline
 
-## 🧠 How It Works
+## How It Works
 
 The neural network is built with the following components:
 
